@@ -1,0 +1,15 @@
+{
+  "name": "flag-dominant-color",
+  "version": "0.1.0",
+  "description": "Produces a list of dominant colors for country flags",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "andaryjo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colorthief": "^2.3.2"
+  }
+}

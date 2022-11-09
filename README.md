@@ -12,4 +12,4 @@ To reproduce the file, simply run `npm start`.
 
 I needed a list of colors to represent countries in various diagrams and thought this was a good approach. But in reality, most flags only consist of two or three colors, all with a roughly equal share of the flag. The resulting dominant colors are not colors you would intuitively associate with the country.
 
-You can see the colors in use over at [lgstats.xyz - The Local Guides Leaderboard](https://lgstats.xyz/stats).
+You can see the colors in use over at [lgstats.xyz - The Local Guides Leaderboard](https://lgstats.xyz/insights).
